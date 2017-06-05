@@ -11,22 +11,26 @@ public class Iguana_Range : MonoBehaviour
 
 
     public GameObject Projectile;
-    public float ShootTime;
     public Transform shootFrom;
     public int chanceShoot;
     public float TDestroy;
-    public GameObject ColliderRang;
+    //public GameObject ColliderRang;
 
     public GameObject iguana;
 
-    private SpriteRenderer spriteRenderer;
-    private Animator animator;
+    //private SpriteRenderer spriteRenderer;
 
-    public Transform bulletPrefab;
+    //public Transform bulletPrefab;
 
-    float nextShootT;
+    public float nextShootT;
 
-    bool shoot;
+    public float delay;
+    public float weaponSpeed;
+    public GameObject player;
+    private Rigidbody2D coll_particle;
+    public float projectille_speed;
+
+    //bool shoot;
 
     // Use this for initialization
     void Start()
@@ -50,8 +54,18 @@ public class Iguana_Range : MonoBehaviour
                 var clonedProj = Instantiate(Projectile, shootFrom.position, Quaternion.identity);
                 Destroy(clonedProj, TDestroy);
                 Physics2D.IgnoreCollision(clonedProj.GetComponent<Collider2D>(), iguana.GetComponent<Collider2D>());
-
+                
             }
+           /* var clonedProj = Instantiate(Projectile, shootFrom.position, Quaternion.identity);
+            coll_particle = clonedProj.GetComponent<Rigidbody2D>();
+            coll_particle.velocity = (player.transform.position - transform.position).normalized * projectille_speed;
+
+            Physics2D.IgnoreCollision(clonedProj.GetComponent<Collider2D>(), iguana.GetComponent<Collider2D>());
+            
+            Destroy(clonedProj, TDestroy);*/
+
         }
     }
+
 }
+

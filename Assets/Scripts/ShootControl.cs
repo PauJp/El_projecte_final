@@ -8,9 +8,10 @@ public class ShootControl : MonoBehaviour {
     public float shootSpeedL;
     public float shootAngle;
     public float shootTorqueAngle;
-    public GameObject Iguana;
 
     private SpriteRenderer spriteRenderer;
+
+    public Transform player;
 
     Rigidbody2D shootRB;
 
@@ -20,6 +21,7 @@ public class ShootControl : MonoBehaviour {
         shootRB = GetComponent<Rigidbody2D>();
         shootRB.AddForce(new Vector2(Random.Range(-shootAngle, shootAngle), Random.Range(shootSpeedL, shootSpeedH)), ForceMode2D.Impulse);
         shootRB.AddTorque(Random.Range(-shootTorqueAngle, shootTorqueAngle));
+        /*shootRB.velocity = (player.transform.position - transform.position).normalized * shootSpeedH;*/
     }
 
 	

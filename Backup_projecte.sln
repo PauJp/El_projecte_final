@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backup_projecte", "Backup_projecte.csproj", "{1BF9E016-5925-3EF3-1D64-0AACCE7FB237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backup_projecte.Editor", "Backup_projecte.Editor.csproj", "{CF3989BC-EA55-BD05-C958-1A2610932823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BF9E016-5925-3EF3-1D64-0AACCE7FB237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF9E016-5925-3EF3-1D64-0AACCE7FB237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF9E016-5925-3EF3-1D64-0AACCE7FB237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF9E016-5925-3EF3-1D64-0AACCE7FB237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF3989BC-EA55-BD05-C958-1A2610932823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3989BC-EA55-BD05-C958-1A2610932823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3989BC-EA55-BD05-C958-1A2610932823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3989BC-EA55-BD05-C958-1A2610932823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
