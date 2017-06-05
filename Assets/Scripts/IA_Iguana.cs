@@ -14,7 +14,6 @@ public class IA_Iguana : FisiquesGameObject
     public Transform shootFrom;
     public int chanceShoot;
     public float TDestroy;
-    public GameObject ColliderRang;
 
     private SpriteRenderer spriteRenderer;
     private Animator animator;
