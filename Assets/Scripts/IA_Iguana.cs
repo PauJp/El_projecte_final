@@ -10,18 +10,18 @@ public class IA_Iguana : FisiquesGameObject
     public float maxSpeed = 7;
 
     public GameObject Projectile;
-    public float ShootTime;
     public Transform shootFrom;
     public int chanceShoot;
     public float TDestroy;
-    public GameObject ColliderRang;
 
     private SpriteRenderer spriteRenderer;
     private Animator animator;
 
     public Transform bulletPrefab;
 
-    float nextShootT;
+    public float nextShootT;
+
+    //bool shoot;
 
     // Use this for initialization
     void Awake()
@@ -31,10 +31,10 @@ public class IA_Iguana : FisiquesGameObject
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
 
-        Transform bullet = Instantiate(bulletPrefab) as Transform;
-        Physics2D.IgnoreCollision(bullet.GetComponent<Collider2D>(), GetComponent<Collider2D>());
+        //Transform bullet = Instantiate(bulletPrefab) as Transform;
+        //Physics2D.IgnoreCollision(bullet.GetComponent<Collider2D>(), GetComponent<Collider2D>());
 
-        nextShootT = 0f;
+        //nextShootT = 0.1f;
     }
 
     protected override void ComputeVelocity()
@@ -49,6 +49,7 @@ public class IA_Iguana : FisiquesGameObject
         //Animacions
         animator.SetBool("grounded", grounded);
         animator.SetFloat("velocityX", Mathf.Abs(velocitat.x) / maxSpeed);
+        //animator.SetBool("Shoot", shoot);
         targetVelocity = move * maxSpeed;
 
     }
