@@ -81,19 +81,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-    <Compile Include="Assets\GameMaster.cs" />
-=======
-<<<<<<< HEAD
-=======
->>>>>>> master
-    <Compile Include="Assets\MoveTrial.cs" />
-    <Compile Include="Assets\Parallaxing.cs" />
-    <Compile Include="Assets\Player.cs" />
->>>>>>> master
-=======
->>>>>>> Stashed changes
     <Compile Include="Assets\Scripts\AstarPathfindingProject\Core\AI\AILerp.cs" />
     <Compile Include="Assets\Scripts\AstarPathfindingProject\Core\AI\AIPath.cs" />
     <Compile Include="Assets\Scripts\AstarPathfindingProject\Core\AI\NavmeshController.cs" />
@@ -182,10 +169,12 @@
     <Compile Include="Assets\Scripts\Enemy_Patrol.cs" />
     <Compile Include="Assets\Scripts\Enemy_shoot_control.cs" />
     <Compile Include="Assets\Scripts\FisiquesGameObject.cs" />
+    <Compile Include="Assets\Scripts\GameMaster.cs" />
     <Compile Include="Assets\Scripts\IA_Iguana.cs" />
     <Compile Include="Assets\Scripts\Iguana_Range.cs" />
     <Compile Include="Assets\Scripts\MenuSurfing.cs" />
     <Compile Include="Assets\Scripts\MoveTrial.cs" />
+    <Compile Include="Assets\Scripts\Parallaxing.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\RotateToMouse.cs" />
