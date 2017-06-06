@@ -81,7 +81,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\GameMaster.cs" />
     <Compile Include="Assets\MoveTrial.cs" />
+    <Compile Include="Assets\Parallaxing.cs" />
     <Compile Include="Assets\Player.cs" />
     <Compile Include="Assets\Scripts\AstarPathfindingProject\Core\AI\AILerp.cs" />
     <Compile Include="Assets\Scripts\AstarPathfindingProject\Core\AI\AIPath.cs" />

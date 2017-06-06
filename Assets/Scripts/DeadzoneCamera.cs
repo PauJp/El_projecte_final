@@ -32,6 +32,9 @@ public class DeadzoneCamera : MonoBehaviour
 
     public void Update()
     {
+        if (target == null)
+            return;
+
         float localX = target.transform.position.x - transform.position.x;
         float localY = target.transform.position.y - transform.position.y;
 
