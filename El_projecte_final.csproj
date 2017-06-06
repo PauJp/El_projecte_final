@@ -176,6 +176,7 @@
     <Compile Include="Assets\Scripts\TitleScreen\Fondo\CloudMoveLeft.cs" />
     <Compile Include="Assets\Scripts\TitleScreen\Fondo\CloudMoveRight.cs" />
     <Compile Include="Assets\Scripts\TitleScreen\Menu_Surfing.cs" />
+    <Compile Include="Assets\Scripts\TitleScreen\NewGameButton.cs" />
     <Compile Include="Assets\Scripts\TitleScreen\Settings_Surfing.cs" />
     <Compile Include="Assets\Scripts\Weapon.cs" />
   </ItemGroup>
