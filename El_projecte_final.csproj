@@ -81,10 +81,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Assets\GameMaster.cs" />
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> master
     <Compile Include="Assets\MoveTrial.cs" />
     <Compile Include="Assets\Parallaxing.cs" />
     <Compile Include="Assets\Player.cs" />
+>>>>>>> master
     <Compile Include="Assets\Scripts\AstarPathfindingProject\Core\AI\AILerp.cs" />
     <Compile Include="Assets\Scripts\AstarPathfindingProject\Core\AI\AIPath.cs" />
     <Compile Include="Assets\Scripts\AstarPathfindingProject\Core\AI\NavmeshController.cs" />
@@ -168,17 +174,23 @@
     <Compile Include="Assets\Scripts\AstarPathfindingProject\changelog.cs" />
     <Compile Include="Assets\Scripts\CosaPixels.cs" />
     <Compile Include="Assets\Scripts\DeadzoneCamera.cs" />
+    <Compile Include="Assets\Scripts\DestroyOverTime.cs" />
     <Compile Include="Assets\Scripts\EnemyAI.cs" />
+    <Compile Include="Assets\Scripts\Enemy_Patrol.cs" />
+    <Compile Include="Assets\Scripts\Enemy_shoot_control.cs" />
     <Compile Include="Assets\Scripts\FisiquesGameObject.cs" />
     <Compile Include="Assets\Scripts\IA_Iguana.cs" />
     <Compile Include="Assets\Scripts\Iguana_Range.cs" />
     <Compile Include="Assets\Scripts\MenuSurfing.cs" />
+    <Compile Include="Assets\Scripts\MoveTrial.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\RotateToMouse.cs" />
     <Compile Include="Assets\Scripts\ShootControl.cs" />
+    <Compile Include="Assets\Scripts\Shoot_Range.cs" />
     <Compile Include="Assets\Scripts\TitleScreen\Fondo\CloudMoveLeft.cs" />
     <Compile Include="Assets\Scripts\TitleScreen\Fondo\CloudMoveRight.cs" />
     <Compile Include="Assets\Scripts\TitleScreen\Menu_Surfing.cs" />
+    <Compile Include="Assets\Scripts\TitleScreen\NewGameButton.cs" />
     <Compile Include="Assets\Scripts\TitleScreen\Settings_Surfing.cs" />
     <Compile Include="Assets\Scripts\Weapon.cs" />
   </ItemGroup>

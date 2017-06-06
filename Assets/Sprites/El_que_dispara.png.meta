@@ -1,0 +1,2324 @@
+fileFormatVersion: 2
+guid: 4be610e5673f8f24f89f14f567507b95
+timeCreated: 1496749556
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_0
+    21300002: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_1
+    21300004: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_2
+    21300006: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_3
+    21300008: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_4
+    21300010: Idle_1
+    21300012: Idle_2
+    21300014: Idle_3
+    21300016: Idle_4
+    21300018: Idle_5
+    21300020: Idle_6
+    21300022: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_11
+    21300024: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_12
+    21300026: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_13
+    21300028: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_14
+    21300030: Walk_1
+    21300032: Walk_2
+    21300034: Walk_3
+    21300036: Walk_6
+    21300038: Walk_7
+    21300040: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_20
+    21300042: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_21
+    21300044: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_22
+    21300046: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_23
+    21300048: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_24
+    21300050: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_25
+    21300052: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_26
+    21300054: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_27
+    21300056: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_28
+    21300058: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_29
+    21300060: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_30
+    21300062: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_31
+    21300064: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_32
+    21300066: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_33
+    21300068: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_34
+    21300070: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_35
+    21300072: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_36
+    21300074: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_37
+    21300076: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_38
+    21300078: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_39
+    21300080: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_40
+    21300082: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_41
+    21300084: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_42
+    21300086: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_43
+    21300088: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_44
+    21300090: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_45
+    21300092: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_46
+    21300094: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_47
+    21300096: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_48
+    21300098: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_49
+    21300100: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_50
+    21300102: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_51
+    21300104: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_52
+    21300106: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_53
+    21300108: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_54
+    21300110: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_55
+    21300112: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_56
+    21300114: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_57
+    21300116: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_58
+    21300118: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_59
+    21300120: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_60
+    21300122: Dead
+    21300124: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_62
+    21300126: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_63
+    21300128: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_64
+    21300130: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_65
+    21300132: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_66
+    21300134: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_67
+    21300136: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_68
+    21300138: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_69
+    21300140: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_70
+    21300142: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_71
+    21300144: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_72
+    21300146: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_73
+    21300148: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_74
+    21300150: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_75
+    21300152: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_76
+    21300154: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_77
+    21300156: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_78
+    21300158: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_79
+    21300160: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_80
+    21300162: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_81
+    21300164: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_82
+    21300166: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_83
+    21300168: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_84
+    21300170: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_85
+    21300172: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_86
+    21300174: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_87
+    21300176: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_88
+    21300178: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_89
+    21300180: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_90
+    21300182: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_91
+    21300184: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_92
+    21300186: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_93
+    21300188: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_94
+    21300190: Fire_1
+    21300192: Fire_2
+    21300194: Fire_3
+    21300196: Fire_4
+    21300198: Fire_5
+    21300200: Fire_6
+    21300202: Fire_7
+    21300204: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_102
+    21300206: Fire_8
+    21300208: Fire_9
+    21300210: Fire_10
+    21300212: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_106
+    21300214: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_107
+    21300216: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_108
+    21300218: Shoot
+    21300220: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_110
+    21300222: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_111
+    21300224: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_112
+    21300226: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_113
+    21300228: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_114
+    21300230: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_115
+    21300232: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_116
+    21300234: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_117
+    21300236: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_118
+    21300238: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_119
+    21300240: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_120
+    21300242: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_121
+    21300244: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_122
+    21300246: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_123
+    21300248: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_124
+    21300250: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_125
+    21300252: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_126
+    21300254: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_127
+    21300256: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_128
+    21300258: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_129
+    21300260: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_130
+    21300262: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_131
+    21300264: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_132
+    21300266: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_133
+    21300268: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_134
+    21300270: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_135
+    21300272: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_136
+    21300274: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_137
+    21300276: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_138
+    21300278: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_139
+    21300280: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_140
+    21300282: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_141
+    21300284: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_142
+    21300286: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_143
+    21300288: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_144
+    21300290: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_145
+    21300292: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_146
+    21300294: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_147
+    21300296: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_148
+    21300298: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_149
+    21300300: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_150
+    21300302: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_151
+    21300304: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_152
+    21300306: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_153
+    21300308: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_154
+    21300310: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_155
+    21300312: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_156
+    21300314: Walk_4
+    21300316: Walk_5
+    21300318: Wall_8
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2828
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2828
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2828
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2828
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2828
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2618
+        width: 234
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2618
+        width: 239
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle_3
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2618
+        width: 238
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle_4
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2618
+        width: 254
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 2618
+        width: 242
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle_6
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 2618
+        width: 234
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2528
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2528
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2528
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2528
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2319
+        width: 234
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2320
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2319
+        width: 231
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_6
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 2321
+        width: 233
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_7
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 2320
+        width: 231
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2223
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2223
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2223
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_23
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2219
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_24
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2223
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_25
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2223
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_26
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2223
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_27
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2223
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_28
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2018
+        width: 223
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_29
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2018
+        width: 223
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_30
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 2018
+        width: 223
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_31
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 2018
+        width: 223
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_32
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1894
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1894
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_34
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1894
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_35
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1879
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_36
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1888
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_37
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1928
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_38
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1888
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_39
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1894
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_40
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1894
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_41
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1879
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_42
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1894
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_43
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1888
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_44
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1894
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_45
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1894
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_46
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1894
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_47
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1894
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_48
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1883
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_49
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1924
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_50
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1888
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_51
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1883
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_52
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1883
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_53
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1659
+        width: 244
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_54
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1678
+        width: 239
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_55
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1683
+        width: 283
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_56
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1678
+        width: 284
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_57
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1833
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_58
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1833
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_59
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1833
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_60
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1833
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dead
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1689
+        width: 289
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_62
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1514
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_63
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1514
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_64
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1514
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_65
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1514
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_66
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1514
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_67
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1514
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_68
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1514
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_69
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1514
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_70
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1514
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_71
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1514
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_72
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1298
+        width: 222
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_73
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1298
+        width: 218
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_74
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1298
+        width: 209
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_75
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1484
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_76
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1298
+        width: 234
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_77
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1298
+        width: 223
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_78
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1298
+        width: 254
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_79
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1298
+        width: 244
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_80
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 1298
+        width: 243
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_81
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1149
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_82
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1149
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_83
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1149
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_84
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1188
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_85
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1149
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_86
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1149
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_87
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1149
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_88
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1149
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_89
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1149
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_90
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1149
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_91
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1149
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_92
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1113
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_93
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1113
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_94
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1119
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 931
+        width: 234
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 929
+        width: 234
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire_3
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 929
+        width: 243
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire_4
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 929
+        width: 253
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire_5
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 929
+        width: 284
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire_6
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 929
+        width: 283
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire_7
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 929
+        width: 284
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_102
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1098
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire_8
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 929
+        width: 282
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire_9
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 929
+        width: 254
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire_10
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 929
+        width: 242
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_106
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1023
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_107
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 824
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_108
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 848
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoot
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 778
+        width: 174
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_110
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 783
+        width: 173
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_111
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 854
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_112
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 783
+        width: 169
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_113
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 843
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_114
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 839
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_115
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 828
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_116
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 833
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_117
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 818
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_118
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 818
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_119
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 824
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_120
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 824
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_121
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 813
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_122
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 813
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_123
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 793
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_124
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 798
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_125
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 668
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_126
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 668
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_127
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 668
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_128
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 668
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_129
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 668
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_130
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 668
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_131
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 668
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_132
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 668
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_133
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 668
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_134
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 668
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_135
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 653
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_136
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 658
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_137
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 638
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_138
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 638
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_139
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 643
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_140
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 643
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_141
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 643
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_142
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 453
+        width: 234
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_143
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 453
+        width: 243
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_144
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 453
+        width: 253
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_145
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 453
+        width: 284
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_146
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 453
+        width: 282
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_147
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 453
+        width: 283
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_148
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 453
+        width: 284
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_149
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 623
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_150
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 453
+        width: 284
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_151
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 453
+        width: 254
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_152
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 453
+        width: 243
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_153
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 79
+        width: 2738
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_154
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 68
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_155
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 79
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mastertyrannomon_sprite_sheet_by_dragonrod342-d8ea6yi_156
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 79
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_4
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2320
+        width: 230
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_5
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2320
+        width: 230
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall_8
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 2319
+        width: 233
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
