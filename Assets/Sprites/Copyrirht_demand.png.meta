@@ -1,0 +1,5326 @@
+fileFormatVersion: 2
+guid: 4f607ce86d07de744b3ca7397a358b7e
+timeCreated: 1496745490
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_0
+    21300002: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_1
+    21300004: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_2
+    21300006: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_3
+    21300008: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_4
+    21300010: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_5
+    21300012: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_6
+    21300014: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_7
+    21300016: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_8
+    21300018: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_9
+    21300020: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_10
+    21300022: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_11
+    21300024: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_12
+    21300026: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_13
+    21300028: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_14
+    21300030: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_15
+    21300032: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_16
+    21300034: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_17
+    21300036: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_18
+    21300038: Walk_3
+    21300040: Walk_1
+    21300042: Walk_2
+    21300044: Walk_4
+    21300046: Walk_5
+    21300048: Walk_6
+    21300050: Walk_7
+    21300052: Walk_8
+    21300054: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_30
+    21300056: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_31
+    21300058: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_32
+    21300060: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_33
+    21300062: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_34
+    21300064: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_35
+    21300066: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_36
+    21300068: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_37
+    21300070: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_38
+    21300072: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_39
+    21300074: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_40
+    21300076: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_41
+    21300078: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_42
+    21300080: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_43
+    21300082: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_44
+    21300084: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_45
+    21300086: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_46
+    21300088: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_47
+    21300090: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_48
+    21300092: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_49
+    21300094: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_50
+    21300096: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_51
+    21300098: Idle_hit
+    21300100: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_53
+    21300102: Mort
+    21300104: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_55
+    21300106: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_56
+    21300108: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_57
+    21300110: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_58
+    21300112: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_59
+    21300114: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_60
+    21300116: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_61
+    21300118: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_62
+    21300120: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_63
+    21300122: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_64
+    21300124: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_65
+    21300126: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_66
+    21300128: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_67
+    21300130: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_68
+    21300132: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_69
+    21300134: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_70
+    21300136: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_71
+    21300138: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_72
+    21300140: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_73
+    21300142: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_74
+    21300144: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_75
+    21300146: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_76
+    21300148: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_77
+    21300150: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_78
+    21300152: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_79
+    21300154: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_80
+    21300156: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_81
+    21300158: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_82
+    21300160: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_83
+    21300162: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_84
+    21300164: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_85
+    21300166: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_86
+    21300168: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_87
+    21300170: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_88
+    21300172: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_89
+    21300174: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_90
+    21300176: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_91
+    21300178: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_92
+    21300180: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_93
+    21300182: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_94
+    21300184: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_95
+    21300186: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_96
+    21300188: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_97
+    21300190: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_98
+    21300192: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_99
+    21300194: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_100
+    21300196: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_101
+    21300198: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_102
+    21300200: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_103
+    21300202: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_104
+    21300204: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_105
+    21300206: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_106
+    21300208: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_107
+    21300210: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_108
+    21300212: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_109
+    21300214: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_110
+    21300216: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_111
+    21300218: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_112
+    21300220: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_113
+    21300222: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_114
+    21300224: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_115
+    21300226: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_116
+    21300228: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_117
+    21300230: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_118
+    21300232: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_119
+    21300234: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_120
+    21300236: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_121
+    21300238: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_122
+    21300240: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_123
+    21300242: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_124
+    21300244: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_125
+    21300246: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_126
+    21300248: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_127
+    21300250: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_128
+    21300252: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_129
+    21300254: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_130
+    21300256: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_131
+    21300258: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_132
+    21300260: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_133
+    21300262: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_134
+    21300264: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_135
+    21300266: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_136
+    21300268: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_137
+    21300270: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_138
+    21300272: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_139
+    21300274: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_140
+    21300276: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_141
+    21300278: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_142
+    21300280: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_143
+    21300282: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_144
+    21300284: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_145
+    21300286: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_146
+    21300288: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_147
+    21300290: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_148
+    21300292: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_149
+    21300294: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_150
+    21300296: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_151
+    21300298: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_152
+    21300300: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_153
+    21300302: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_154
+    21300304: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_155
+    21300306: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_156
+    21300308: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_157
+    21300310: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_158
+    21300312: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_159
+    21300314: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_160
+    21300316: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_161
+    21300318: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_162
+    21300320: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_163
+    21300322: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_164
+    21300324: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_165
+    21300326: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_166
+    21300328: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_167
+    21300330: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_168
+    21300332: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_169
+    21300334: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_170
+    21300336: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_171
+    21300338: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_172
+    21300340: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_173
+    21300342: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_174
+    21300344: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_175
+    21300346: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_176
+    21300348: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_177
+    21300350: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_178
+    21300352: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_179
+    21300354: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_180
+    21300356: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_181
+    21300358: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_182
+    21300360: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_183
+    21300362: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_184
+    21300364: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_185
+    21300366: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_186
+    21300368: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_187
+    21300370: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_188
+    21300372: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_189
+    21300374: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_190
+    21300376: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_191
+    21300378: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_192
+    21300380: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_193
+    21300382: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_194
+    21300384: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_195
+    21300386: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_196
+    21300388: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_197
+    21300390: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_198
+    21300392: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_199
+    21300394: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_200
+    21300396: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_201
+    21300398: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_202
+    21300400: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_203
+    21300402: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_204
+    21300404: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_205
+    21300406: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_206
+    21300408: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_207
+    21300410: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_208
+    21300412: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_209
+    21300414: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_210
+    21300416: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_211
+    21300418: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_212
+    21300420: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_213
+    21300422: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_214
+    21300424: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_215
+    21300426: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_216
+    21300428: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_217
+    21300430: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_218
+    21300432: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_219
+    21300434: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_220
+    21300436: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_221
+    21300438: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_222
+    21300440: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_223
+    21300442: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_224
+    21300444: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_225
+    21300446: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_226
+    21300448: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_227
+    21300450: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_228
+    21300452: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_229
+    21300454: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_230
+    21300456: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_231
+    21300458: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_232
+    21300460: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_233
+    21300462: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_234
+    21300464: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_235
+    21300466: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_236
+    21300468: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_237
+    21300470: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_238
+    21300472: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_239
+    21300474: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_240
+    21300476: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_241
+    21300478: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_242
+    21300480: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_243
+    21300482: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_244
+    21300484: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_245
+    21300486: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_246
+    21300488: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_247
+    21300490: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_248
+    21300492: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_249
+    21300494: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_250
+    21300496: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_251
+    21300498: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_252
+    21300500: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_253
+    21300502: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_254
+    21300504: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_255
+    21300506: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_256
+    21300508: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_257
+    21300510: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_258
+    21300512: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_259
+    21300514: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_260
+    21300516: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_261
+    21300518: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_262
+    21300520: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_263
+    21300522: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_264
+    21300524: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_265
+    21300526: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_266
+    21300528: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_267
+    21300530: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_268
+    21300532: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_269
+    21300534: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_270
+    21300536: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_271
+    21300538: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_272
+    21300540: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_273
+    21300542: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_274
+    21300544: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_275
+    21300546: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_276
+    21300548: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_277
+    21300550: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_278
+    21300552: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_279
+    21300554: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_280
+    21300556: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_281
+    21300558: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_282
+    21300560: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_283
+    21300562: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_284
+    21300564: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_285
+    21300566: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_286
+    21300568: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_287
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2954
+        width: 7
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2955
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2954
+        width: 9
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2979
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_4
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2943
+        width: 18
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_5
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2958
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_6
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2969
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2838
+        width: 129
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2838
+        width: 128
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2838
+        width: 128
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2838
+        width: 129
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_11
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2838
+        width: 124
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_12
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2838
+        width: 129
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_13
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 2838
+        width: 123
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_14
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 2838
+        width: 124
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2778
+        width: 59
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_16
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2778
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2778
+        width: 8
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_18
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2778
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2643
+        width: 149
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2643
+        width: 149
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2643
+        width: 149
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_4
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2643
+        width: 149
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_5
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2643
+        width: 144
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_6
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 2643
+        width: 149
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_7
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 2643
+        width: 149
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk_8
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 2643
+        width: 149
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2583
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_31
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 2578
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_32
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 2618
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_33
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2578
+        width: 14
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_34
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2583
+        width: 34
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2583
+        width: 49
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_36
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2574
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_37
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 2578
+        width: 9
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_38
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 2563
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_39
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2603
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_40
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 2563
+        width: 14
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_41
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 2563
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_42
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2458
+        width: 168
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_43
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2458
+        width: 169
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_44
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2458
+        width: 168
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_45
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2458
+        width: 169
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_46
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2563
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_47
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2559
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_48
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2563
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_49
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2563
+        width: 9
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_50
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2563
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_51
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 2563
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle_hit
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2443
+        width: 149
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_53
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 2443
+        width: 199
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mort
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 2443
+        width: 198
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_55
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 2508
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_56
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 2519
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_57
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 2508
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_58
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2398
+        width: 38
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_59
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2398
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_60
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2398
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_61
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2398
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_62
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2398
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_63
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2398
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_64
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2443
+        width: 199
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_65
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2443
+        width: 198
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_66
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2398
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_67
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2398
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_68
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2398
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_69
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2398
+        width: 13
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_70
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2398
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_71
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2398
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_72
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2398
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_73
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2398
+        width: 14
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_74
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2398
+        width: 13
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_75
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 2398
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_76
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2398
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_77
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2398
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2263
+        width: 129
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_79
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2263
+        width: 124
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_80
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 2263
+        width: 122
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_81
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2374
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_82
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2263
+        width: 123
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_83
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2263
+        width: 159
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_84
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 2263
+        width: 154
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_85
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2263
+        width: 154
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_86
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 2263
+        width: 143
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_87
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 2263
+        width: 137
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_88
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 2263
+        width: 144
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_89
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2028
+        width: 304
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_90
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2139
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_91
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 2173
+        width: 339
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_92
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 2139
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_93
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 2139
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_94
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1923
+        width: 149
+        height: 298
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_95
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 2139
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_96
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 2139
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_97
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 2128
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_98
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 2139
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_99
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 2139
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_100
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 2139
+        width: 34
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_101
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 2139
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_102
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2139
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_103
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 2139
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_104
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1893
+        width: 163
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_105
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1983
+        width: 579
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_106
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1933
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_107
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1933
+        width: 49
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_108
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1933
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_109
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1933
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_110
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1933
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_111
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1933
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_112
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1933
+        width: 19
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_113
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1933
+        width: 17
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_114
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1933
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_115
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1933
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_116
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1933
+        width: 14
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_117
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1838
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_118
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1838
+        width: 8
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_119
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1838
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_120
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1838
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_121
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1838
+        width: 38
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_122
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1838
+        width: 13
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_123
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1838
+        width: 14
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_124
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1838
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_125
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1858
+        width: 14
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_126
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1868
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_127
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1868
+        width: 48
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_128
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1868
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_129
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1868
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_130
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1868
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_131
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1868
+        width: 9
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_132
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1868
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_133
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1858
+        width: 13
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_134
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1878
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_135
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1878
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_136
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1868
+        width: 69
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_137
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1878
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_138
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1878
+        width: 29
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_139
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1878
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_140
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1878
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_141
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1878
+        width: 33
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_142
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1838
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_143
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1838
+        width: 39
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_144
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1838
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_145
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1838
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_146
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1838
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_147
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1838
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_148
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1838
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_149
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1838
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_150
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1713
+        width: 134
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_151
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1713
+        width: 129
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_152
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1838
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_153
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1713
+        width: 129
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_154
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1713
+        width: 129
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_155
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1713
+        width: 129
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_156
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1713
+        width: 154
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_157
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1713
+        width: 129
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_158
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1713
+        width: 129
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_159
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1568
+        width: 159
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_160
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1568
+        width: 148
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_161
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1503
+        width: 38
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_162
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1503
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_163
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1503
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_164
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1503
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_165
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1494
+        width: 28
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_166
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1503
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_167
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1503
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_168
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1503
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_169
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1503
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_170
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1508
+        width: 38
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_171
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1508
+        width: 13
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_172
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1508
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_173
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1508
+        width: 13
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_174
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1508
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_175
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1508
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_176
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1508
+        width: 38
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_177
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1498
+        width: 34
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_178
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1508
+        width: 38
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_179
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1508
+        width: 13
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_180
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1508
+        width: 14
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_181
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1508
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_182
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1508
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_183
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1508
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_184
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1508
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_185
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1368
+        width: 159
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_186
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1468
+        width: 19
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_187
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1483
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_188
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1368
+        width: 154
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_189
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1368
+        width: 154
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_190
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1368
+        width: 122
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_191
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1368
+        width: 124
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_192
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1368
+        width: 128
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_193
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1368
+        width: 124
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_194
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1368
+        width: 119
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_195
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1368
+        width: 123
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_196
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1248
+        width: 33
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_197
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1283
+        width: 389
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_198
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1248
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_199
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1248
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_200
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1248
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_201
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1248
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_202
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1238
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_203
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1248
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_204
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1248
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_205
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1248
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_206
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1248
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_207
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1248
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_208
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1248
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_209
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1193
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_210
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1233
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_211
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1229
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_212
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1213
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_213
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1193
+        width: 9
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_214
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1183
+        width: 34
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_215
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1218
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_216
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1013
+        width: 104
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_217
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1013
+        width: 109
+        height: 194
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_218
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1204
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_219
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1013
+        width: 109
+        height: 199
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_220
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 988
+        width: 32
+        height: 219
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_221
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1153
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_222
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1013
+        width: 113
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_223
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 954
+        width: 108
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_224
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 993
+        width: 109
+        height: 209
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_225
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1044
+        width: 177
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_226
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1059
+        width: 168
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_227
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1053
+        width: 189
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_228
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1048
+        width: 174
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_229
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1128
+        width: 33
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_230
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1023
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_231
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1008
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_232
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 908
+        width: 199
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_233
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 963
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_234
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 893
+        width: 38
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_235
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 893
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_236
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 893
+        width: 7
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_237
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 893
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_238
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 893
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_239
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 883
+        width: 34
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_240
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 874
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_241
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 874
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_242
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 874
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_243
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 863
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_244
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 874
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_245
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 874
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_246
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 874
+        width: 34
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_247
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 874
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_248
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 874
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_249
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 874
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_250
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 874
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_251
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 874
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_252
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 693
+        width: 753
+        height: 259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_253
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 769
+        width: 134
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_254
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 769
+        width: 133
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_255
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 769
+        width: 133
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_256
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 848
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_257
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 769
+        width: 133
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_258
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 859
+        width: 19
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_259
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 668
+        width: 219
+        height: 198
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_260
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 658
+        width: 38
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_261
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 698
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_262
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 658
+        width: 13
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_263
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 658
+        width: 38
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_264
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 658
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_265
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 658
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_266
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 658
+        width: 14
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_267
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 658
+        width: 13
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_268
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 658
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_269
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 658
+        width: 7
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_270
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 658
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_271
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 658
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_272
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 658
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_273
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 658
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_274
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 658
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_275
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 658
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_276
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 658
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_277
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 523
+        width: 128
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_278
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 523
+        width: 123
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_279
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 523
+        width: 124
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_280
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 633
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_281
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 523
+        width: 124
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_282
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 523
+        width: 144
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_283
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 523
+        width: 137
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_284
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 523
+        width: 143
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_285
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 23
+        width: 1579
+        height: 479
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_286
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 488
+        width: 47
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 004___charmander_sprite_sheet_by_dragonrod342-d9jygc1_287
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 498
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -48.098938, y: -995.6982}
+      - {x: -67.33852, y: -1014.9316}
+      - {x: -74.73835, y: -995.6982}
+      - {x: -136.89697, y: -995.6982}
+      - {x: -141.33688, y: -997.1777}
+      - {x: -138.37694, y: -1006.0546}
+      - {x: -135.417, y: -1009.0136}
+      - {x: -123.57727, y: -1010.4931}
+      - {x: -119.13737, y: -1017.89056}
+      - {x: -114.69747, y: -1020.84955}
+      - {x: -114.69747, y: -1026.7676}
+      - {x: -116.17744, y: -1022.32904}
+      - {x: -122.097305, y: -1016.4111}
+      - {x: -129.49715, y: -1010.4931}
+      - {x: -163.53639, y: -1003.09564}
+      - {x: -286.3737, y: -1011.9726}
+      - {x: -801.4023, y: -1111.0986}
+      - {x: -804.36224, y: -1114.0576}
+      - {x: -804.36224, y: -1488.3691}
+      - {x: -136.89697, y: -1494.2871}
+      - {x: 768.843, y: -1494.2871}
+      - {x: 779.2028, y: -1492.8076}
+      - {x: 779.2028, y: -1109.6191}
+      - {x: 204.97548, y: -995.6982}
+    - - {x: -83.61816, y: -1090.3857}
+      - {x: -83.61816, y: -1100.7422}
+      - {x: -80.65822, y: -1103.7012}
+      - {x: -71.77841, y: -1103.7012}
+      - {x: -70.29845, y: -1100.7422}
+      - {x: -70.29845, y: -1090.3857}
+    - - {x: 96.93786, y: -1085.9473}
+      - {x: 91.01799, y: -1088.9062}
+      - {x: 91.01799, y: -1100.7422}
+      - {x: 92.497955, y: -1103.7012}
+      - {x: 105.817665, y: -1103.7012}
+      - {x: 108.777596, y: -1100.7422}
+      - {x: 108.777596, y: -1088.9062}
+      - {x: 105.817665, y: -1085.9473}
+    - - {x: 110.25757, y: -1046.001}
+      - {x: 105.817665, y: -1054.8779}
+      - {x: 105.817665, y: -1066.7139}
+      - {x: 108.777596, y: -1069.6729}
+      - {x: 133.93704, y: -1069.6729}
+      - {x: 133.93704, y: -1054.8779}
+      - {x: 123.57727, y: -1046.001}
+    - - {x: 91.01799, y: -1014.9316}
+      - {x: 96.93786, y: -1019.37006}
+      - {x: 108.777596, y: -1019.37006}
+      - {x: 114.69747, y: -1011.9726}
+      - {x: 114.69747, y: -995.6982}
+      - {x: 93.97793, y: -995.6982}
+      - {x: 91.01799, y: -997.1777}
+    - - {x: -838.4015, y: -875.8594}
+      - {x: -838.4015, y: -949.834}
+      - {x: -807.3222, y: -994.2187}
+      - {x: -720.0041, y: -994.2187}
+      - {x: -705.2044, y: -960.1904}
+      - {x: -705.2044, y: -878.81836}
+      - {x: -721.4841, y: -875.8594}
+    - - {x: -688.9248, y: -875.8594}
+      - {x: -693.3647, y: -878.81836}
+      - {x: -693.3647, y: -952.79297}
+      - {x: -660.8054, y: -994.2187}
+      - {x: -582.3671, y: -994.2187}
+      - {x: -566.0875, y: -988.3007}
+      - {x: -566.0875, y: -875.8594}
+    - - {x: -505.40884, y: -902.49023}
+      - {x: -512.80865, y: -887.6953}
+      - {x: -523.16846, y: -875.8594}
+      - {x: -533.5282, y: -875.8594}
+      - {x: -549.80786, y: -896.57227}
+      - {x: -549.80786, y: -951.3135}
+      - {x: -527.60834, y: -994.2187}
+      - {x: -421.05072, y: -994.2187}
+      - {x: -421.05072, y: -911.3672}
+      - {x: -424.01065, y: -887.6953}
+      - {x: -431.41046, y: -875.8594}
+      - {x: -489.1292, y: -875.8594}
+      - {x: -495.04907, y: -877.33887}
+    - - {x: -329.29272, y: -875.8594}
+      - {x: -384.0515, y: -903.9697}
+      - {x: -384.0515, y: -955.75195}
+      - {x: -381.09158, y: -967.5879}
+      - {x: -344.0924, y: -994.2187}
+      - {x: -271.574, y: -994.2187}
+      - {x: -255.29436, y: -967.5879}
+      - {x: -255.29436, y: -875.8594}
+    - - {x: -239.01472, y: -880.29785}
+      - {x: -239.01472, y: -939.47754}
+      - {x: -237.53476, y: -943.916}
+      - {x: -196.09567, y: -994.2187}
+      - {x: -147.25674, y: -994.2187}
+      - {x: -116.17744, y: -988.3007}
+      - {x: -91.01799, y: -933.5596}
+      - {x: -91.01799, y: -880.29785}
+    - - {x: -83.61816, y: -880.29785}
+      - {x: -83.61816, y: -930.6006}
+      - {x: -77.69829, y: -963.1494}
+      - {x: -46.618973, y: -994.2187}
+      - {x: 2.219951, y: -994.2187}
+      - {x: 31.819298, y: -988.3007}
+      - {x: 58.45871, y: -948.3545}
+      - {x: 58.45871, y: -880.29785}
+    - - {x: 61.418644, y: -880.29785}
+      - {x: 61.418644, y: -972.02637}
+      - {x: 86.57809, y: -994.2187}
+      - {x: 182.77597, y: -994.2187}
+      - {x: 209.41537, y: -970.5469}
+      - {x: 209.41537, y: -892.1338}
+      - {x: 197.57564, y: -880.29785}
+    - - {x: -381.09158, y: -861.06445}
+      - {x: -384.0515, y: -864.02344}
+      - {x: -384.0515, y: -875.8594}
+      - {x: -366.2919, y: -893.6133}
+      - {x: -355.93213, y: -893.6133}
+      - {x: -355.93213, y: -868.4619}
+      - {x: -360.37204, y: -861.06445}
+    - - {x: -838.4015, y: -806.32324}
+      - {x: -838.4015, y: -859.58496}
+      - {x: -789.56256, y: -859.58496}
+      - {x: -786.60266, y: -858.10547}
+      - {x: -786.60266, y: -807.80273}
+      - {x: -788.0826, y: -806.32324}
+    - - {x: -759.9632, y: -810.7617}
+      - {x: -783.6427, y: -810.7617}
+      - {x: -783.6427, y: -856.626}
+      - {x: -779.2028, y: -859.58496}
+      - {x: -736.28375, y: -859.58496}
+      - {x: -736.28375, y: -821.11816}
+      - {x: -740.72363, y: -818.1592}
+    - - {x: -724.44403, y: -806.32324}
+      - {x: -724.44403, y: -859.58496}
+      - {x: -555.7277, y: -859.58496}
+      - {x: -555.7277, y: -806.32324}
+    - - {x: -378.13165, y: -821.11816}
+      - {x: -384.0515, y: -827.03613}
+      - {x: -384.0515, y: -837.3926}
+      - {x: -385.5315, y: -824.07715}
+      - {x: -389.9714, y: -806.32324}
+      - {x: -446.21014, y: -806.32324}
+      - {x: -474.32953, y: -812.2412}
+      - {x: -477.28946, y: -806.32324}
+      - {x: -535.0082, y: -806.32324}
+      - {x: -543.888, y: -828.5156}
+      - {x: -543.888, y: -859.58496}
+      - {x: -351.49225, y: -859.58496}
+      - {x: -351.49225, y: -822.59766}
+      - {x: -357.4121, y: -821.11816}
+    - - {x: 163.53639, y: -371.35254}
+      - {x: 150.21669, y: -439.40918}
+      - {x: -62.898613, y: -594.75586}
+      - {x: -55.498775, y: -642.0996}
+      - {x: -42.17907, y: -646.5381}
+      - {x: -76.218315, y: -646.5381}
+      - {x: -79.17825, y: -649.4971}
+      - {x: -79.17825, y: -846.26953}
+      - {x: -76.218315, y: -849.2285}
+      - {x: 890.2004, y: -849.2285}
+      - {x: 899.08014, y: -835.9131}
+      - {x: 899.08014, y: -325.48828}
+      - {x: 204.97548, y: -325.48828}
+      - {x: 184.25594, y: -329.92676}
+    - - {x: 64.37858, y: -695.3613}
+      - {x: 55.498775, y: -704.2383}
+      - {x: 55.498775, y: -754.541}
+      - {x: 101.37776, y: -754.541}
+      - {x: 119.13737, y: -750.10254}
+      - {x: 119.13737, y: -708.67676}
+      - {x: 110.25757, y: -695.3613}
+    - - {x: -286.3737, y: -636.18164}
+      - {x: -829.52167, y: -636.18164}
+      - {x: -829.52167, y: -710.15625}
+      - {x: -798.4424, y: -747.14355}
+      - {x: -788.0826, y: -748.62305}
+      - {x: -286.3737, y: -748.62305}
+    - - {x: -11.099755, y: -665.7715}
+      - {x: -14.0596895, y: -668.73047}
+      - {x: -14.0596895, y: -676.1279}
+      - {x: -11.099755, y: -679.0869}
+      - {x: -3.6999183, y: -679.0869}
+      - {x: -0.7399837, y: -676.1279}
+      - {x: -0.7399837, y: -668.73047}
+      - {x: -3.6999183, y: -665.7715}
+    - - {x: -416.6108, y: -636.18164}
+      - {x: -419.57074, y: -637.66113}
+      - {x: -419.57074, y: -655.41504}
+      - {x: -413.65088, y: -662.8125}
+      - {x: -401.81113, y: -668.73047}
+      - {x: -391.45135, y: -668.73047}
+      - {x: -391.45135, y: -645.0586}
+      - {x: -397.37122, y: -636.18164}
+    - - {x: -215.33525, y: -590.3174}
+      - {x: -274.53394, y: -590.3174}
+      - {x: -274.53394, y: -646.5381}
+      - {x: -213.85529, y: -653.93555}
+      - {x: -157.61652, y: -653.93555}
+      - {x: -141.33688, y: -643.5791}
+      - {x: -141.33688, y: -600.6738}
+      - {x: -142.81685, y: -596.23535}
+    - - {x: -128.01718, y: -606.5918}
+      - {x: -129.49715, y: -608.0713}
+      - {x: -129.49715, y: -640.6201}
+      - {x: -128.01718, y: -643.5791}
+      - {x: -71.77841, y: -643.5791}
+      - {x: -65.85854, y: -640.6201}
+      - {x: -65.85854, y: -608.0713}
+      - {x: -67.33852, y: -606.5918}
+    - - {x: -736.28375, y: -585.8789}
+      - {x: -743.6836, y: -587.3584}
+      - {x: -743.6836, y: -634.70215}
+      - {x: -646.00574, y: -634.70215}
+      - {x: -646.00574, y: -593.27637}
+      - {x: -648.9657, y: -585.8789}
+    - - {x: -789.56256, y: -594.75586}
+      - {x: -789.56256, y: -602.1533}
+      - {x: -791.04254, y: -593.27637}
+      - {x: -794.0025, y: -582.9199}
+      - {x: -802.88226, y: -571.084}
+      - {x: -816.20197, y: -571.084}
+      - {x: -829.52167, y: -599.19434}
+      - {x: -829.52167, y: -624.3457}
+      - {x: -746.6435, y: -624.3457}
+      - {x: -746.6435, y: -571.084}
+      - {x: -770.323, y: -571.084}
+      - {x: -788.0826, y: -578.48145}
+    - - {x: -169.45625, y: -575.52246}
+      - {x: -80.65822, y: -609.5508}
+      - {x: 18.499592, y: -609.5508}
+      - {x: 34.779232, y: -590.3174}
+      - {x: 34.779232, y: -510.42477}
+      - {x: -169.45625, y: -510.42477}
+    - - {x: 206.45544, y: -591.7969}
+      - {x: 207.93541, y: -594.75586}
+      - {x: 215.33525, y: -594.75586}
+      - {x: 219.77515, y: -593.27637}
+      - {x: 219.77515, y: -581.4404}
+      - {x: 209.41537, y: -581.4404}
+      - {x: 206.45544, y: -584.3994}
+    - - {x: 440.29028, y: -310.69336}
+      - {x: 370.7318, y: -310.69336}
+      - {x: 330.7727, y: -360.9961}
+      - {x: 330.7727, y: -466.04004}
+      - {x: 379.61163, y: -544.4531}
+      - {x: 392.93134, y: -554.8096}
+      - {x: 409.21097, y: -554.8096}
+      - {x: 416.6108, y: -531.1377}
+      - {x: 444.7302, y: -477.87598}
+      - {x: 444.7302, y: -316.61133}
+    - - {x: 126.53721, y: -306.25488}
+      - {x: 104.3377, y: -329.92676}
+      - {x: 101.37776, y: -392.06543}
+      - {x: 101.37776, y: -529.6582}
+      - {x: 113.2175, y: -529.6582}
+      - {x: 125.057236, y: -503.0273}
+      - {x: 138.37694, y: -349.16016}
+      - {x: 138.37694, y: -306.25488}
+    - - {x: 566.0875, y: -340.2832}
+      - {x: 480.2494, y: -393.54492}
+      - {x: 471.3696, y: -421.65527}
+      - {x: 471.3696, y: -508.94528}
+      - {x: 646.00574, y: -508.94528}
+      - {x: 780.68274, y: -463.08105}
+      - {x: 823.6018, y: -390.58594}
+      - {x: 823.6018, y: -363.95508}
+      - {x: 802.88226, y: -340.2832}
+    - - {x: -518.7286, y: -340.2832}
+      - {x: -518.7286, y: -389.10645}
+      - {x: -498.009, y: -389.10645}
+      - {x: -492.08914, y: -384.66797}
+      - {x: -458.0499, y: -378.75}
+      - {x: -466.9297, y: -383.18848}
+      - {x: -483.20932, y: -390.58594}
+      - {x: -481.72937, y: -495.62985}
+      - {x: -435.85037, y: -504.5068}
+      - {x: -381.09158, y: -504.5068}
+      - {x: -366.2919, y: -489.71188}
+      - {x: -366.2919, y: -420.17578}
+      - {x: -394.4113, y: -340.2832}
+    - - {x: -314.49307, y: -306.25488}
+      - {x: -327.81277, y: -318.09082}
+      - {x: -354.45218, y: -384.66797}
+      - {x: -354.45218, y: -474.917}
+      - {x: -313.0131, y: -504.5068}
+      - {x: -240.49469, y: -504.5068}
+      - {x: -240.49469, y: -434.9707}
+      - {x: -247.89453, y: -396.5039}
+      - {x: -289.33362, y: -306.25488}
+    - - {x: -224.21506, y: -291.45996}
+      - {x: -224.21506, y: -497.10934}
+      - {x: -222.73508, y: -504.5068}
+      - {x: -136.89697, y: -504.5068}
+      - {x: -116.17744, y: -488.23242}
+      - {x: -116.17744, y: -347.68066}
+      - {x: -163.53639, y: -291.45996}
+    - - {x: -17.019625, y: -335.84473}
+      - {x: -39.219135, y: -377.2705}
+      - {x: -39.219135, y: -486.75293}
+      - {x: -5.179886, y: -504.5068}
+      - {x: 74.73835, y: -504.5068}
+      - {x: 74.73835, y: -429.05273}
+      - {x: 37.739166, y: -276.66504}
+      - {x: 21.459526, y: -270.74707}
+      - {x: 3.6999183, y: -270.74707}
+      - {x: -9.619787, y: -297.37793}
+    - - {x: -866.5209, y: -360.9961}
+      - {x: -869.48083, y: -368.39355}
+      - {x: -869.48083, y: -426.09375}
+      - {x: -810.2821, y: -468.99902}
+      - {x: -505.40884, y: -468.99902}
+      - {x: -505.40884, y: -396.5039}
+      - {x: -546.8479, y: -360.9961}
+    - - {x: -748.1235, y: -285.542}
+      - {x: -754.04333, y: -291.45996}
+      - {x: -754.04333, y: -334.36523}
+      - {x: -717.0442, y: -334.36523}
+      - {x: -715.5642, y: -332.88574}
+      - {x: -715.5642, y: -285.542}
+    - - {x: -765.8831, y: -270.74707}
+      - {x: -768.843, y: -273.70605}
+      - {x: -774.7629, y: -270.74707}
+      - {x: -805.8422, y: -270.74707}
+      - {x: -808.8021, y: -273.70605}
+      - {x: -808.8021, y: -324.0088}
+      - {x: -755.5233, y: -324.0088}
+      - {x: -755.5233, y: -272.22656}
+      - {x: -758.4833, y: -270.74707}
+    - - {x: -329.29272, y: -300.3369}
+      - {x: -339.6525, y: -300.3369}
+      - {x: -339.6525, y: -313.65234}
+      - {x: -329.29272, y: -313.65234}
+      - {x: -326.3328, y: -310.69336}
+      - {x: -326.3328, y: -301.8164}
+    - - {x: -345.57236, y: -285.542}
+      - {x: -348.53232, y: -287.02148}
+      - {x: -348.53232, y: -295.89844}
+      - {x: -345.57236, y: -298.85742}
+      - {x: -335.2126, y: -298.85742}
+      - {x: -335.2126, y: -285.542}
+    - - {x: -324.8528, y: -275.18555}
+      - {x: -329.29272, y: -279.62402}
+      - {x: -329.29272, y: -285.542}
+      - {x: -326.3328, y: -288.50098}
+      - {x: -318.93295, y: -288.50098}
+      - {x: -315.97302, y: -285.542}
+      - {x: -315.97302, y: -279.62402}
+      - {x: -320.41293, y: -275.18555}
+    - - {x: -34.779232, y: -216.00586}
+      - {x: -34.779232, y: -273.70605}
+      - {x: -31.819298, y: -276.66504}
+      - {x: 8.13982, y: -279.62402}
+      - {x: 80.65822, y: -279.62402}
+      - {x: 98.41782, y: -266.3086}
+      - {x: 98.41782, y: -216.00586}
+    - - {x: 173.89616, y: -267.7881}
+      - {x: 173.89616, y: -236.71875}
+      - {x: 172.4162, y: -230.80078}
+      - {x: 111.73753, y: -230.80078}
+      - {x: 110.25757, y: -238.19824}
+      - {x: 110.25757, y: -264.8291}
+      - {x: 119.13737, y: -269.26758}
+      - {x: 169.45625, y: -269.26758}
+    - - {x: 185.7359, y: -269.26758}
+      - {x: 384.0515, y: -269.26758}
+      - {x: 384.0515, y: -216.00586}
+      - {x: 243.45462, y: -216.00586}
+      - {x: 185.7359, y: -227.8418}
+    - - {x: 318.93295, y: -31.069334}
+      - {x: 267.1341, y: -72.49512}
+      - {x: 273.054, y: -119.83887}
+      - {x: 54.018806, y: -31.069334}
+      - {x: -190.1758, y: -31.069334}
+      - {x: -228.65495, y: -42.905273}
+      - {x: -228.65495, y: -130.19531}
+      - {x: -54.018806, y: -233.75977}
+      - {x: 395.89127, y: -233.75977}
+      - {x: 404.77106, y: -179.01855}
+      - {x: 404.77106, y: -63.61816}
+      - {x: 401.81113, y: -31.069334}
+    - - {x: -500.96893, y: -82.85156}
+      - {x: -461.00983, y: -143.51074}
+      - {x: -443.2502, y: -149.42871}
+      - {x: -387.01144, y: -149.42871}
+      - {x: -370.7318, y: -143.51074}
+      - {x: -345.57236, y: -94.6875}
+      - {x: -345.57236, y: -26.63086}
+      - {x: -819.1619, y: -26.63086}
+      - {x: -819.1619, y: -82.85156}
+      - {x: -765.8831, y: -149.42871}
+      - {x: -515.7686, y: -149.42871}
+      - {x: -505.40884, y: -90.24902}
+      - {x: -505.40884, y: -78.413086}
+      - {x: -508.36877, y: -75.4541}
+    - - {x: 21.459526, y: -31.069334}
+      - {x: 21.459526, y: -116.87988}
+      - {x: 59.93868, y: -149.42871}
+      - {x: 270.09402, y: -149.42871}
+      - {x: 278.97385, y: -147.94922}
+      - {x: 278.97385, y: -31.069334}
+    - - {x: 505.40884, y: -31.069334}
+      - {x: 474.32953, y: -31.069334}
+      - {x: 456.56992, y: -53.26172}
+      - {x: 456.56992, y: -76.93359}
+      - {x: 446.21014, y: -87.29004}
+      - {x: 450.65005, y: -71.015625}
+      - {x: 413.65088, y: -48.823242}
+      - {x: 406.25104, y: -68.05664}
+      - {x: 406.25104, y: -124.277336}
+      - {x: 449.17007, y: -149.42871}
+      - {x: 526.12836, y: -149.42871}
+      - {x: 533.5282, y: -144.99023}
+      - {x: 533.5282, y: -47.34375}
+      - {x: 518.7286, y: -32.54883}
+    - - {x: 307.09323, y: -32.54883}
+      - {x: 298.2134, y: -26.63086}
+      - {x: 286.3737, y: -26.63086}
+      - {x: 280.4538, y: -32.54883}
+      - {x: 280.4538, y: -48.823242}
+      - {x: 292.29355, y: -59.179688}
+      - {x: 305.61325, y: -59.179688}
+      - {x: 308.57318, y: -56.220703}
+      - {x: 308.57318, y: -39.94629}
+    - - {x: 413.65088, y: -20.71289}
+      - {x: 410.69095, y: -23.671875}
+      - {x: 410.69095, y: -31.069334}
+      - {x: 413.65088, y: -34.02832}
+      - {x: 421.05072, y: -34.02832}
+      - {x: 424.01065, y: -31.069334}
+      - {x: 424.01065, y: -23.671875}
+      - {x: 421.05072, y: -20.71289}
+    - - {x: -708.16437, y: 38.466797}
+      - {x: -748.1235, y: 26.63086}
+      - {x: -749.60345, y: 20.71289}
+      - {x: -749.60345, y: 14.794922}
+      - {x: -751.08344, y: 17.753906}
+      - {x: -757.0033, y: 23.671875}
+      - {x: -777.72284, y: 23.671875}
+      - {x: -783.6427, y: 17.753906}
+      - {x: -788.0826, y: 19.233398}
+      - {x: -783.6427, y: 20.71289}
+      - {x: -780.68274, y: 23.671875}
+      - {x: -779.2028, y: 32.54883}
+      - {x: -782.1627, y: 38.466797}
+      - {x: -823.6018, y: 38.466797}
+      - {x: -823.6018, y: -16.274414}
+      - {x: -819.1619, y: -23.671875}
+      - {x: -691.8847, y: -23.671875}
+      - {x: -671.16516, y: -1.4794922}
+      - {x: -671.16516, y: 38.466797}
+    - - {x: 14.0596895, y: 44.384766}
+      - {x: -49.578907, y: 44.384766}
+      - {x: -49.578907, y: -8.876953}
+      - {x: -48.098938, y: -19.233398}
+      - {x: 8.13982, y: -19.233398}
+      - {x: 28.859364, y: -5.9179688}
+      - {x: 28.859364, y: 31.069334}
+    - - {x: -659.32544, y: 38.466797}
+      - {x: -659.32544, y: -10.356445}
+      - {x: -654.88556, y: -14.794922}
+      - {x: -650.4456, y: -14.794922}
+      - {x: -646.00574, y: -10.356445}
+      - {x: -620.8463, y: -2.9589844}
+      - {x: -620.8463, y: 38.466797}
+    - - {x: -623.8062, y: 23.671875}
+      - {x: -623.8062, y: -14.794922}
+      - {x: -530.5683, y: -14.794922}
+      - {x: -530.5683, y: 19.233398}
+      - {x: -533.5282, y: 23.671875}
+    - - {x: -228.65495, y: 44.384766}
+      - {x: -228.65495, y: -8.876953}
+      - {x: -61.418644, y: -8.876953}
+      - {x: -61.418644, y: 34.02832}
+      - {x: -86.57809, y: 44.384766}
+    - - {x: 234.57483, y: 44.384766}
+      - {x: 46.618973, y: 44.384766}
+      - {x: 40.6991, y: 5.9179688}
+      - {x: 40.6991, y: -8.876953}
+      - {x: 228.65495, y: -8.876953}
+      - {x: 234.57483, y: -7.397461}
+    - - {x: 142.81685, y: 199.73145}
+      - {x: 91.01799, y: 155.34668}
+      - {x: 91.01799, y: 109.48242}
+      - {x: 119.13737, y: 50.302734}
+      - {x: 243.45462, y: 50.302734}
+      - {x: 253.81439, y: 88.76953}
+      - {x: 253.81439, y: 199.73145}
+    - - {x: 301.17334, y: 189.375}
+      - {x: 301.17334, y: 53.26172}
+      - {x: 317.453, y: 50.302734}
+      - {x: 449.17007, y: 50.302734}
+      - {x: 453.61, y: 71.015625}
+      - {x: 453.61, y: 183.45703}
+      - {x: 443.2502, y: 189.375}
+    - - {x: 95.45789, y: 189.375}
+      - {x: 95.45789, y: 176.05957}
+      - {x: 108.777596, y: 176.05957}
+      - {x: 108.777596, y: 189.375}
+    - - {x: -844.32135, y: 313.65234}
+      - {x: -859.12103, y: 310.69336}
+      - {x: -859.12103, y: 248.55467}
+      - {x: -853.2012, y: 223.40332}
+      - {x: -810.2821, y: 195.29297}
+      - {x: -733.3238, y: 195.29297}
+      - {x: -725.92395, y: 232.28027}
+      - {x: -725.92395, y: 312.17285}
+      - {x: -727.40393, y: 313.65234}
+    - - {x: -674.1251, y: 313.65234}
+      - {x: -674.1251, y: 241.15723}
+      - {x: -651.9256, y: 199.73145}
+      - {x: -637.1259, y: 195.29297}
+      - {x: -572.0074, y: 195.29297}
+      - {x: -543.888, y: 198.25195}
+      - {x: -540.92804, y: 205.64941}
+      - {x: -540.92804, y: 313.65234}
+    - - {x: -481.72937, y: 313.65234}
+      - {x: -489.1292, y: 309.21387}
+      - {x: -489.1292, y: 227.8418}
+      - {x: -465.44974, y: 195.29297}
+      - {x: -355.93213, y: 195.29297}
+      - {x: -355.93213, y: 304.7754}
+      - {x: -369.25186, y: 313.65234}
+    - - {x: -264.17416, y: 291.45996}
+      - {x: -261.21423, y: 301.8164}
+      - {x: -270.09402, y: 321.0498}
+      - {x: -299.6934, y: 316.61133}
+      - {x: -299.6934, y: 216.00586}
+      - {x: -265.65414, y: 195.29297}
+      - {x: -167.97629, y: 195.29297}
+      - {x: -160.57646, y: 196.77246}
+      - {x: -160.57646, y: 300.3369}
+      - {x: -163.53639, y: 322.5293}
+      - {x: -178.33606, y: 328.44727}
+      - {x: -224.21506, y: 328.44727}
+      - {x: -250.85446, y: 313.65234}
+    - - {x: -49.578907, y: 334.36523}
+      - {x: -104.3377, y: 279.62402}
+      - {x: -104.3377, y: 227.8418}
+      - {x: -91.01799, y: 195.29297}
+      - {x: -11.099755, y: 195.29297}
+      - {x: 28.859364, y: 224.88281}
+      - {x: 28.859364, y: 279.62402}
+      - {x: 3.6999183, y: 334.36523}
+    - - {x: 224.21506, y: 324.0088}
+      - {x: 150.21669, y: 324.0088}
+      - {x: 133.93704, y: 319.5703}
+      - {x: 91.01799, y: 298.85742}
+      - {x: 91.01799, y: 252.99315}
+      - {x: 122.097305, y: 195.29297}
+      - {x: 185.7359, y: 195.29297}
+      - {x: 222.73508, y: 210.08789}
+      - {x: 249.3745, y: 248.55467}
+      - {x: 249.3745, y: 284.0625}
+    - - {x: 301.17334, y: 304.7754}
+      - {x: 301.17334, y: 218.96484}
+      - {x: 321.89288, y: 195.29297}
+      - {x: 426.97058, y: 195.29297}
+      - {x: 434.37042, y: 245.59569}
+      - {x: 434.37042, y: 291.45996}
+      - {x: 426.97058, y: 304.7754}
+    - - {x: 490.60916, y: 304.7754}
+      - {x: 490.60916, y: 235.23926}
+      - {x: 493.5691, y: 224.88281}
+      - {x: 505.40884, y: 195.29297}
+      - {x: 623.8062, y: 195.29297}
+      - {x: 623.8062, y: 303.2959}
+      - {x: 619.36633, y: 304.7754}
+    - - {x: -82.13818, y: 313.65234}
+      - {x: -96.93786, y: 313.65234}
+      - {x: -104.3377, y: 310.69336}
+      - {x: -104.3377, y: 291.45996}
+      - {x: -95.45789, y: 281.10352}
+      - {x: -76.218315, y: 281.10352}
+      - {x: -76.218315, y: 303.2959}
+      - {x: -77.69829, y: 307.73438}
+    - - {x: -853.2012, y: 374.31152}
+      - {x: -854.68115, y: 365.43457}
+      - {x: -854.68115, y: 322.5293}
+      - {x: -850.2412, y: 321.0498}
+      - {x: -802.88226, y: 321.0498}
+      - {x: -801.4023, y: 324.0088}
+      - {x: -801.4023, y: 371.35254}
+      - {x: -804.36224, y: 374.31152}
+    - - {x: -795.4824, y: 359.5166}
+      - {x: -798.4424, y: 355.07812}
+      - {x: -798.4424, y: 326.96777}
+      - {x: -795.4824, y: 321.0498}
+      - {x: -730.3639, y: 321.0498}
+      - {x: -725.92395, y: 329.92676}
+      - {x: -725.92395, y: 359.5166}
+    - - {x: -545.368, y: 374.31152}
+      - {x: -585.3271, y: 374.31152}
+      - {x: -665.2453, y: 359.5166}
+      - {x: -671.16516, y: 356.55762}
+      - {x: -669.68524, y: 349.16016}
+      - {x: -671.16516, y: 366.91406}
+      - {x: -674.1251, y: 374.31152}
+      - {x: -714.0842, y: 374.31152}
+      - {x: -714.0842, y: 321.0498}
+      - {x: -548.3279, y: 321.0498}
+      - {x: -545.368, y: 324.0088}
+    - - {x: -367.77188, y: 360.9961}
+      - {x: -379.61163, y: 374.31152}
+      - {x: -413.65088, y: 374.31152}
+      - {x: -458.0499, y: 362.4756}
+      - {x: -459.52985, y: 356.55762}
+      - {x: -459.52985, y: 349.16016}
+      - {x: -463.96976, y: 343.2422}
+      - {x: -461.00983, y: 349.16016}
+      - {x: -461.00983, y: 356.55762}
+      - {x: -463.96976, y: 366.91406}
+      - {x: -469.88962, y: 374.31152}
+      - {x: -529.0883, y: 374.31152}
+      - {x: -533.5282, y: 356.55762}
+      - {x: -533.5282, y: 321.0498}
+      - {x: -341.13248, y: 321.0498}
+      - {x: -341.13248, y: 356.55762}
+      - {x: -347.05234, y: 360.9961}
+    - - {x: 95.45789, y: 334.36523}
+      - {x: 95.45789, y: 321.0498}
+      - {x: 108.777596, y: 321.0498}
+      - {x: 108.777596, y: 334.36523}
+    - - {x: -239.01472, y: 403.90137}
+      - {x: -247.89453, y: 403.90137}
+      - {x: -253.81439, y: 397.9834}
+      - {x: -253.81439, y: 347.68066}
+      - {x: -247.89453, y: 340.2832}
+      - {x: -239.01472, y: 340.2832}
+      - {x: -236.0548, y: 341.7627}
+      - {x: -236.0548, y: 400.94238}
+    - - {x: -40.6991, y: 403.90137}
+      - {x: -49.578907, y: 386.14746}
+      - {x: -49.578907, y: 344.72168}
+      - {x: -34.779232, y: 340.2832}
+      - {x: 3.6999183, y: 340.2832}
+      - {x: 3.6999183, y: 396.5039}
+      - {x: 2.219951, y: 403.90137}
+    - - {x: -234.57483, y: 403.90137}
+      - {x: -234.57483, y: 350.63965}
+      - {x: -196.09567, y: 350.63965}
+      - {x: -196.09567, y: 403.90137}
+    - - {x: -194.6157, y: 389.10645}
+      - {x: -194.6157, y: 350.63965}
+      - {x: -95.45789, y: 350.63965}
+      - {x: -91.01799, y: 372.83203}
+      - {x: -91.01799, y: 389.10645}
+    - - {x: -93.97793, y: 355.07812}
+      - {x: -89.538025, y: 350.63965}
+      - {x: -51.058872, y: 350.63965}
+      - {x: -51.058872, y: 403.90137}
+      - {x: -79.17825, y: 403.90137}
+      - {x: -93.97793, y: 397.9834}
+    - - {x: 280.4538, y: 414.2578}
+      - {x: 280.4538, y: 359.5166}
+      - {x: 315.97302, y: 350.63965}
+      - {x: 540.92804, y: 350.63965}
+      - {x: 589.76697, y: 359.5166}
+      - {x: 589.76697, y: 411.29883}
+      - {x: 585.3271, y: 414.2578}
+    - - {x: -543.888, y: 563.6865}
+      - {x: -543.888, y: 375.79102}
+      - {x: -376.65167, y: 375.79102}
+      - {x: -376.65167, y: 563.6865}
+    - - {x: 406.25104, y: 708.67676}
+      - {x: 370.7318, y: 682.0459}
+      - {x: 370.7318, y: 491.19138}
+      - {x: 387.01144, y: 408.33984}
+      - {x: 398.8512, y: 405.38086}
+      - {x: 435.85037, y: 405.38086}
+      - {x: 524.64844, y: 551.8506}
+      - {x: 524.64844, y: 686.4844}
+      - {x: 452.13, y: 708.67676}
+    - - {x: -85.09812, y: 415.7373}
+      - {x: -73.258385, y: 452.7246}
+      - {x: -77.69829, y: 457.1631}
+      - {x: -64.37858, y: 466.04004}
+      - {x: -68.81848, y: 417.2168}
+      - {x: -62.898613, y: 415.7373}
+      - {x: -25.899427, y: 415.7373}
+      - {x: -25.899427, y: 426.09375}
+      - {x: -28.859364, y: 429.05273}
+      - {x: -25.899427, y: 446.80664}
+      - {x: -24.41946, y: 418.6963}
+      - {x: -24.41946, y: 415.7373}
+      - {x: 95.45789, y: 415.7373}
+      - {x: 96.93786, y: 417.2168}
+      - {x: 93.97793, y: 455.6836}
+      - {x: 88.05806, y: 466.04004}
+      - {x: 79.17825, y: 464.56055}
+      - {x: 76.218315, y: 461.60156}
+      - {x: 18.499592, y: 466.04004}
+      - {x: 326.3328, y: 466.04004}
+      - {x: 329.29272, y: 468.99902}
+      - {x: 329.29272, y: 615.46875}
+      - {x: 58.45871, y: 674.64844}
+      - {x: -253.81439, y: 674.64844}
+      - {x: -253.81439, y: 415.7373}
+      - {x: -213.85529, y: 415.7373}
+      - {x: -215.33525, y: 430.53223}
+      - {x: -213.85529, y: 418.6963}
+      - {x: -212.3753, y: 415.7373}
+    - - {x: -82.13818, y: 574.04297}
+      - {x: -123.57727, y: 553.3301}
+      - {x: -123.57727, y: 483.79395}
+      - {x: -119.13737, y: 480.83496}
+      - {x: -83.61816, y: 480.83496}
+      - {x: -65.85854, y: 486.75293}
+      - {x: -65.85854, y: 574.04297}
+    - - {x: -40.6991, y: 584.3994}
+      - {x: -49.578907, y: 566.6455}
+      - {x: -49.578907, y: 500.06833}
+      - {x: -43.659035, y: 482.31445}
+      - {x: -15.539657, y: 480.83496}
+      - {x: 45.139004, y: 480.83496}
+      - {x: 58.45871, y: 488.23242}
+      - {x: 58.45871, y: 574.04297}
+      - {x: 52.53884, y: 584.3994}
+    - - {x: 91.01799, y: 584.3994}
+      - {x: 91.01799, y: 547.4121}
+      - {x: 92.497955, y: 545.9326}
+      - {x: 107.29763, y: 535.5762}
+      - {x: 116.17744, y: 535.5762}
+      - {x: 117.6574, y: 531.1377}
+      - {x: 111.73753, y: 534.0967}
+      - {x: 104.3377, y: 534.0967}
+      - {x: 101.37776, y: 531.1377}
+      - {x: 91.01799, y: 495.62985}
+      - {x: 91.01799, y: 485.27344}
+      - {x: 113.2175, y: 480.83496}
+      - {x: 166.49632, y: 480.83496}
+      - {x: 179.81602, y: 488.23242}
+      - {x: 179.81602, y: 571.084}
+      - {x: 175.37613, y: 584.3994}
+    - - {x: -228.65495, y: 529.6582}
+      - {x: -228.65495, y: 488.23242}
+      - {x: -225.69502, y: 486.75293}
+      - {x: -221.25511, y: 485.27344}
+      - {x: -204.97548, y: 485.27344}
+      - {x: -200.53557, y: 491.19138}
+      - {x: -200.53557, y: 519.30176}
+      - {x: -210.89534, y: 529.6582}
+    - - {x: 252.33443, y: 569.6045}
+      - {x: 230.13492, y: 554.8096}
+      - {x: 225.69502, y: 550.3711}
+      - {x: 225.69502, y: 544.4531}
+      - {x: 228.65495, y: 541.49414}
+      - {x: 233.09485, y: 503.0273}
+      - {x: 246.41457, y: 491.19138}
+      - {x: 278.97385, y: 491.19138}
+      - {x: 293.77353, y: 498.58884}
+      - {x: 293.77353, y: 531.1377}
+      - {x: 277.49387, y: 569.6045}
+    - - {x: 65.85854, y: 519.30176}
+      - {x: 65.85854, y: 505.9863}
+      - {x: 79.17825, y: 505.9863}
+      - {x: 79.17825, y: 519.30176}
+    - - {x: 80.65822, y: 519.30176}
+      - {x: 80.65822, y: 505.9863}
+      - {x: 93.97793, y: 505.9863}
+      - {x: 93.97793, y: 519.30176}
+    - - {x: -850.2412, y: 739.7461}
+      - {x: -854.68115, y: 735.3076}
+      - {x: -854.68115, y: 514.8633}
+      - {x: -850.2412, y: 510.42477}
+      - {x: -549.80786, y: 510.42477}
+      - {x: -545.368, y: 514.8633}
+      - {x: -545.368, y: 735.3076}
+      - {x: -549.80786, y: 739.7461}
+    - - {x: 89.538025, y: 534.0967}
+      - {x: 86.57809, y: 531.1377}
+      - {x: 86.57809, y: 523.74023}
+      - {x: 89.538025, y: 520.78125}
+      - {x: 95.45789, y: 520.78125}
+      - {x: 98.41782, y: 523.74023}
+      - {x: 98.41782, y: 531.1377}
+      - {x: 95.45789, y: 534.0967}
+    - - {x: 181.296, y: 538.53516}
+      - {x: 181.296, y: 525.2197}
+      - {x: 191.65576, y: 525.2197}
+      - {x: 194.6157, y: 526.6992}
+      - {x: 194.6157, y: 538.53516}
+    - - {x: -656.36554, y: 544.4531}
+      - {x: -659.32544, y: 541.49414}
+      - {x: -659.32544, y: 534.0967}
+      - {x: -656.36554, y: 531.1377}
+      - {x: -648.9657, y: 531.1377}
+      - {x: -646.00574, y: 534.0967}
+      - {x: -646.00574, y: 541.49414}
+      - {x: -648.9657, y: 544.4531}
+    - - {x: -133.93704, y: 544.4531}
+      - {x: -133.93704, y: 531.1377}
+      - {x: -120.61734, y: 531.1377}
+      - {x: -120.61734, y: 544.4531}
+    - - {x: 286.3737, y: 548.8916}
+      - {x: 286.3737, y: 537.05566}
+      - {x: 292.29355, y: 531.1377}
+      - {x: 302.65332, y: 531.1377}
+      - {x: 304.1333, y: 532.6172}
+      - {x: 304.1333, y: 545.9326}
+      - {x: 301.17334, y: 548.8916}
+    - - {x: 54.018806, y: 578.48145}
+      - {x: 36.2592, y: 578.48145}
+      - {x: 36.2592, y: 569.6045}
+      - {x: 52.53884, y: 550.3711}
+      - {x: 61.418644, y: 550.3711}
+      - {x: 64.37858, y: 553.3301}
+      - {x: 64.37858, y: 574.04297}
+    - - {x: 225.69502, y: 574.04297}
+      - {x: 225.69502, y: 560.72754}
+      - {x: 239.01472, y: 560.72754}
+      - {x: 239.01472, y: 574.04297}
+    - - {x: 286.3737, y: 574.04297}
+      - {x: 286.3737, y: 560.72754}
+      - {x: 299.6934, y: 560.72754}
+      - {x: 299.6934, y: 574.04297}
+    - - {x: 116.17744, y: 599.19434}
+      - {x: 116.17744, y: 584.3994}
+      - {x: 122.097305, y: 575.52246}
+      - {x: 138.37694, y: 575.52246}
+      - {x: 138.37694, y: 596.23535}
+      - {x: 135.417, y: 599.19434}
+    - - {x: -43.659035, y: 594.75586}
+      - {x: -43.659035, y: 581.4404}
+      - {x: -30.33933, y: 581.4404}
+      - {x: -30.33933, y: 593.27637}
+      - {x: -33.299267, y: 594.75586}
+    - - {x: 250.85446, y: 594.75586}
+      - {x: 250.85446, y: 581.4404}
+      - {x: 264.17416, y: 581.4404}
+      - {x: 264.17416, y: 594.75586}
+    - - {x: -28.859364, y: 599.19434}
+      - {x: -28.859364, y: 585.8789}
+      - {x: -15.539657, y: 585.8789}
+      - {x: -15.539657, y: 599.19434}
+    - - {x: -580.8872, y: 618.42773}
+      - {x: -583.8471, y: 615.46875}
+      - {x: -583.8471, y: 609.5508}
+      - {x: -580.8872, y: 606.5918}
+      - {x: -573.48737, y: 606.5918}
+      - {x: -570.5274, y: 609.5508}
+      - {x: -570.5274, y: 615.46875}
+      - {x: -573.48737, y: 618.42773}
+    - - {x: -660.8054, y: 634.70215}
+      - {x: -663.7653, y: 631.74316}
+      - {x: -663.7653, y: 624.3457}
+      - {x: -660.8054, y: 621.3867}
+      - {x: -653.4056, y: 621.3867}
+      - {x: -650.4456, y: 624.3457}
+      - {x: -650.4456, y: 630.2637}
+      - {x: -654.88556, y: 634.70215}
+    - - {x: -62.898613, y: 658.374}
+      - {x: -64.37858, y: 650.97656}
+      - {x: -64.37858, y: 624.3457}
+      - {x: -58.45871, y: 621.3867}
+      - {x: -3.6999183, y: 621.3867}
+      - {x: -0.7399837, y: 625.8252}
+      - {x: -0.7399837, y: 653.93555}
+      - {x: -6.659853, y: 658.374}
+    - - {x: 68.81848, y: 674.64844}
+      - {x: 11.099755, y: 661.333}
+      - {x: 11.099755, y: 621.3867}
+      - {x: 209.41537, y: 621.3867}
+      - {x: 209.41537, y: 674.64844}
+    - - {x: -798.4424, y: 693.88184}
+      - {x: -798.4424, y: 642.0996}
+      - {x: -796.9624, y: 640.6201}
+      - {x: -665.2453, y: 640.6201}
+      - {x: -660.8054, y: 664.292}
+      - {x: -660.8054, y: 693.88184}
+    - - {x: 173.89616, y: 744.1846}
+      - {x: 163.53639, y: 744.1846}
+      - {x: 157.61652, y: 742.7051}
+      - {x: 145.77678, y: 744.1846}
+      - {x: -169.45625, y: 744.1846}
+      - {x: -169.45625, y: 680.5664}
+      - {x: -71.77841, y: 655.41504}
+      - {x: 91.01799, y: 655.41504}
+      - {x: 173.89616, y: 679.0869}
+    - - {x: -786.60266, y: 719.0332}
+      - {x: -789.56256, y: 716.0742}
+      - {x: -789.56256, y: 708.67676}
+      - {x: -786.60266, y: 705.7178}
+      - {x: -779.2028, y: 705.7178}
+      - {x: -776.24286, y: 708.67676}
+      - {x: -776.24286, y: 716.0742}
+      - {x: -779.2028, y: 719.0332}
+    - - {x: -859.12103, y: 864.02344}
+      - {x: -859.12103, y: 764.89746}
+      - {x: -822.1218, y: 745.66406}
+      - {x: -754.04333, y: 745.66406}
+      - {x: -734.8038, y: 748.62305}
+      - {x: -725.92395, y: 772.2949}
+      - {x: -725.92395, y: 861.06445}
+      - {x: -727.40393, y: 864.02344}
+    - - {x: -702.2445, y: 864.02344}
+      - {x: -709.64435, y: 856.626}
+      - {x: -709.64435, y: 784.13086}
+      - {x: -693.3647, y: 745.66406}
+      - {x: -580.8872, y: 745.66406}
+      - {x: -580.8872, y: 847.749}
+      - {x: -585.3271, y: 864.02344}
+    - - {x: -548.3279, y: 864.02344}
+      - {x: -558.6877, y: 856.626}
+      - {x: -558.6877, y: 763.41797}
+      - {x: -511.3287, y: 745.66406}
+      - {x: -431.41046, y: 745.66406}
+      - {x: -431.41046, y: 840.35156}
+      - {x: -432.89044, y: 864.02344}
+    - - {x: -352.9722, y: 864.02344}
+      - {x: -388.49142, y: 849.2285}
+      - {x: -388.49142, y: 779.6924}
+      - {x: -385.5315, y: 775.2539}
+      - {x: -350.01227, y: 745.66406}
+      - {x: -299.6934, y: 745.66406}
+      - {x: -270.09402, y: 750.10254}
+      - {x: -261.21423, y: 801.88477}
+      - {x: -261.21423, y: 864.02344}
+    - - {x: 64.37858, y: 816.6797}
+      - {x: 61.418644, y: 819.6387}
+      - {x: 71.77841, y: 810.7617}
+      - {x: 79.17825, y: 776.7334}
+      - {x: 120.61734, y: 745.66406}
+      - {x: 200.53557, y: 745.66406}
+      - {x: 203.49551, y: 747.14355}
+      - {x: 224.21506, y: 767.85645}
+      - {x: 224.21506, y: 868.4619}
+      - {x: -249.3745, y: 868.4619}
+      - {x: -249.3745, y: 807.80273}
+      - {x: -194.6157, y: 745.66406}
+      - {x: 15.539657, y: 745.66406}
+      - {x: 42.17907, y: 753.0615}
+      - {x: 64.37858, y: 803.36426}
+    - - {x: 367.77188, y: 859.58496}
+      - {x: 244.93459, y: 859.58496}
+      - {x: 231.61488, y: 853.667}
+      - {x: 231.61488, y: 776.7334}
+      - {x: 277.49387, y: 745.66406}
+      - {x: 339.6525, y: 745.66406}
+      - {x: 350.01227, y: 753.0615}
+      - {x: 379.61163, y: 809.2822}
+      - {x: 379.61163, y: 852.1875}
+    - - {x: 391.45135, y: 859.58496}
+      - {x: 391.45135, y: 787.08984}
+      - {x: 418.09076, y: 745.66406}
+      - {x: 487.64923, y: 745.66406}
+      - {x: 506.88882, y: 753.0615}
+      - {x: 533.5282, y: 788.56934}
+      - {x: 533.5282, y: 840.35156}
+      - {x: 523.16846, y: 859.58496}
+    - - {x: 540.92804, y: 859.58496}
+      - {x: 540.92804, y: 784.13086}
+      - {x: 583.8471, y: 745.66406}
+      - {x: 654.88556, y: 745.66406}
+      - {x: 688.9248, y: 775.2539}
+      - {x: 688.9248, y: 859.58496}
+    - - {x: -370.7318, y: 878.81836}
+      - {x: -385.5315, y: 878.81836}
+      - {x: -388.49142, y: 874.3799}
+      - {x: -388.49142, y: 861.06445}
+      - {x: -375.17172, y: 846.26953}
+      - {x: -360.37204, y: 846.26953}
+      - {x: -360.37204, y: 875.8594}
+    - - {x: -743.6836, y: 933.5596}
+      - {x: -770.323, y: 924.6826}
+      - {x: -768.843, y: 915.80566}
+      - {x: -768.843, y: 908.4082}
+      - {x: -768.843, y: 912.8467}
+      - {x: -773.28296, y: 933.5596}
+      - {x: -863.5609, y: 933.5596}
+      - {x: -863.5609, y: 880.29785}
+      - {x: -690.4048, y: 880.29785}
+      - {x: -690.4048, y: 914.3262}
+      - {x: -708.16437, y: 933.5596}
+    - - {x: -678.565, y: 933.5596}
+      - {x: -678.565, y: 880.29785}
+      - {x: -515.7686, y: 880.29785}
+      - {x: -515.7686, y: 933.5596}
+    - - {x: -338.17255, y: 918.76465}
+      - {x: -344.0924, y: 912.8467}
+      - {x: -344.0924, y: 902.49023}
+      - {x: -345.57236, y: 915.80566}
+      - {x: -348.53232, y: 918.76465}
+      - {x: -358.8921, y: 932.0801}
+      - {x: -361.85202, y: 933.5596}
+      - {x: -382.57156, y: 933.5596}
+      - {x: -428.45053, y: 923.2031}
+      - {x: -428.45053, y: 915.80566}
+      - {x: -429.9305, y: 921.72363}
+      - {x: -440.29028, y: 933.5596}
+      - {x: -493.5691, y: 933.5596}
+      - {x: -503.92886, y: 908.4082}
+      - {x: -503.92886, y: 880.29785}
+      - {x: -311.5331, y: 880.29785}
+      - {x: -311.5331, y: 918.76465}
+      - {x: -314.49307, y: 926.1621}
+    - - {x: -159.09648, y: 1044.5215}
+      - {x: -159.09648, y: 932.0801}
+      - {x: -141.33688, y: 926.1621}
+      - {x: -55.498775, y: 926.1621}
+      - {x: -55.498775, y: 1044.5215}
+    - - {x: 463.96976, y: 1009.0136}
+      - {x: 447.69012, y: 1023.80853}
+      - {x: 11.099755, y: 1023.80853}
+      - {x: 11.099755, y: 952.79297}
+      - {x: 28.859364, y: 926.1621}
+      - {x: 798.4424, y: 926.1621}
+      - {x: 798.4424, y: 973.50586}
+      - {x: 774.7629, y: 1000.13666}
+    - - {x: -878.3606, y: 1053.3984}
+      - {x: -878.3606, y: 964.6289}
+      - {x: -857.64105, y: 940.95703}
+      - {x: -745.1636, y: 940.95703}
+      - {x: -705.2044, y: 979.42377}
+      - {x: -705.2044, y: 1053.3984}
+    - - {x: -660.8054, y: 1053.3984}
+      - {x: -675.6051, y: 1043.042}
+      - {x: -674.1251, y: 1028.2471}
+      - {x: -668.20526, y: 1020.84955}
+      - {x: -683.00494, y: 1031.206}
+      - {x: -702.2445, y: 1041.5625}
+      - {x: -714.0842, y: 1010.4931}
+      - {x: -714.0842, y: 957.23145}
+      - {x: -699.28455, y: 940.95703}
+      - {x: -576.44727, y: 940.95703}
+      - {x: -540.92804, y: 995.6982}
+      - {x: -540.92804, y: 1034.165}
+      - {x: -555.7277, y: 1053.3984}
+    - - {x: -548.3279, y: 1053.3984}
+      - {x: -549.80786, y: 1047.4805}
+      - {x: -549.80786, y: 940.95703}
+      - {x: -413.65088, y: 940.95703}
+      - {x: -351.49225, y: 980.90326}
+      - {x: -351.49225, y: 1032.6855}
+      - {x: -379.61163, y: 1053.3984}
+    - - {x: -210.89534, y: 1010.4931}
+      - {x: -210.89534, y: 1053.3984}
+      - {x: -361.85202, y: 1053.3984}
+      - {x: -384.0515, y: 1026.7676}
+      - {x: -384.0515, y: 946.875}
+      - {x: -367.77188, y: 940.95703}
+      - {x: -293.77353, y: 940.95703}
+      - {x: -258.2543, y: 954.27246}
+      - {x: -239.01472, y: 967.5879}
+      - {x: -240.49469, y: 980.90326}
+      - {x: -243.45462, y: 983.86224}
+    - - {x: 601.6067, y: 1023.80853}
+      - {x: 601.6067, y: 1006.0546}
+      - {x: 611.9665, y: 991.2597}
+      - {x: 629.7261, y: 991.2597}
+      - {x: 629.7261, y: 1006.0546}
+      - {x: 622.32623, y: 1023.80853}
+    - - {x: -83.61816, y: 1053.3984}
+      - {x: -83.61816, y: 1041.5625}
+      - {x: -70.29845, y: 1041.5625}
+      - {x: -70.29845, y: 1053.3984}
+    - - {x: -104.3377, y: 1059.3164}
+      - {x: -104.3377, y: 1046.001}
+      - {x: -91.01799, y: 1046.001}
+      - {x: -91.01799, y: 1059.3164}
+    - - {x: 34.779232, y: 1046.001}
+      - {x: 54.018806, y: 1056.3574}
+      - {x: 54.018806, y: 1099.2627}
+      - {x: 15.539657, y: 1099.2627}
+      - {x: 15.539657, y: 1046.001}
+    - - {x: 91.01799, y: 1084.4678}
+      - {x: 52.53884, y: 1084.4678}
+      - {x: 51.058872, y: 1078.5498}
+      - {x: 51.058872, y: 1048.96}
+      - {x: 54.018806, y: 1046.001}
+      - {x: 92.497955, y: 1046.001}
+      - {x: 93.97793, y: 1048.96}
+      - {x: 93.97793, y: 1082.9883}
+    - - {x: 213.85529, y: 1099.2627}
+      - {x: 135.417, y: 1099.2627}
+      - {x: 95.45789, y: 1090.3857}
+      - {x: 95.45789, y: 1046.001}
+      - {x: 213.85529, y: 1046.001}
+    - - {x: -792.5225, y: 1118.4961}
+      - {x: -872.44073, y: 1118.4961}
+      - {x: -873.9207, y: 1114.0576}
+      - {x: -873.9207, y: 1065.2344}
+      - {x: -822.1218, y: 1056.3574}
+      - {x: -730.3639, y: 1056.3574}
+      - {x: -724.44403, y: 1060.7959}
+      - {x: -721.4841, y: 1069.6729}
+      - {x: -721.4841, y: 1105.1807}
+    - - {x: -148.73671, y: 1114.0576}
+      - {x: -148.73671, y: 1060.7959}
+      - {x: -95.45789, y: 1060.7959}
+      - {x: -95.45789, y: 1114.0576}
+    - - {x: -93.97793, y: 1109.6191}
+      - {x: -93.97793, y: 1062.2754}
+      - {x: -92.497955, y: 1060.7959}
+      - {x: -76.218315, y: 1060.7959}
+      - {x: -76.218315, y: 1099.2627}
+      - {x: -79.17825, y: 1109.6191}
+    - - {x: 80.65822, y: 1099.2627}
+      - {x: 80.65822, y: 1085.9473}
+      - {x: 93.97793, y: 1085.9473}
+      - {x: 93.97793, y: 1099.2627}
+    - - {x: 304.1333, y: 1183.5938}
+      - {x: 304.1333, y: 1232.417}
+      - {x: 261.21423, y: 1254.6094}
+      - {x: -55.498775, y: 1254.6094}
+      - {x: -70.29845, y: 1230.9375}
+      - {x: -190.1758, y: 1254.6094}
+      - {x: -203.49551, y: 1254.6094}
+      - {x: -237.53476, y: 1190.9912}
+      - {x: -284.8937, y: 1254.6094}
+      - {x: -339.6525, y: 1254.6094}
+      - {x: -372.2118, y: 1238.335}
+      - {x: -388.49142, y: 1254.6094}
+      - {x: -468.40967, y: 1254.6094}
+      - {x: -492.08914, y: 1250.1709}
+      - {x: -509.84875, y: 1232.417}
+      - {x: -532.0483, y: 1254.6094}
+      - {x: -794.0025, y: 1254.6094}
+      - {x: -884.28046, y: 1244.2529}
+      - {x: -884.28046, y: 1196.9092}
+      - {x: -862.081, y: 1136.25}
+      - {x: -845.80133, y: 1125.8936}
+      - {x: -600.1268, y: 1125.8936}
+      - {x: -567.56744, y: 1139.209}
+      - {x: -537.96814, y: 1125.8936}
+      - {x: 262.6942, y: 1125.8936}
+    - - {x: -283.41376, y: 1238.335}
+      - {x: -270.09402, y: 1220.581}
+      - {x: -259.73425, y: 1220.581}
+      - {x: -255.29436, y: 1222.0605}
+      - {x: -255.29436, y: 1250.1709}
+      - {x: -267.1341, y: 1254.6094}
+      - {x: -280.4538, y: 1254.6094}
+      - {x: -283.41376, y: 1250.1709}
+    - - {x: -133.93704, y: 1259.0479}
+      - {x: -133.93704, y: 1245.7324}
+      - {x: -120.61734, y: 1245.7324}
+      - {x: -120.61734, y: 1259.0479}
+    - - {x: -873.9207, y: 1313.7891}
+      - {x: -873.9207, y: 1291.5967}
+      - {x: -865.0409, y: 1260.5273}
+      - {x: -820.6419, y: 1260.5273}
+      - {x: -810.2821, y: 1298.9941}
+      - {x: -810.2821, y: 1313.7891}
+    - - {x: -783.6427, y: 1313.7891}
+      - {x: -813.24207, y: 1300.4736}
+      - {x: -814.722, y: 1290.1172}
+      - {x: -814.722, y: 1264.9658}
+      - {x: -810.2821, y: 1260.5273}
+      - {x: -773.28296, y: 1260.5273}
+      - {x: -770.323, y: 1264.9658}
+      - {x: -770.323, y: 1313.7891}
+    - - {x: -757.0033, y: 1313.7891}
+      - {x: -768.843, y: 1313.7891}
+      - {x: -768.843, y: 1260.5273}
+      - {x: -736.28375, y: 1260.5273}
+      - {x: -736.28375, y: 1307.8711}
+      - {x: -754.04333, y: 1312.3096}
+    - - {x: -884.28046, y: 1433.6279}
+      - {x: -884.28046, y: 1349.2969}
+      - {x: -847.2813, y: 1321.1865}
+      - {x: -751.08344, y: 1321.1865}
+      - {x: -751.08344, y: 1433.6279}
+    - - {x: -749.60345, y: 1439.5459}
+      - {x: -749.60345, y: 1386.2842}
+      - {x: -740.72363, y: 1350.7764}
+      - {x: -705.2044, y: 1321.1865}
+      - {x: -660.8054, y: 1321.1865}
+      - {x: -628.24615, y: 1325.625}
+      - {x: -616.4064, y: 1389.2432}
+      - {x: -616.4064, y: 1418.833}
+      - {x: -632.68604, y: 1439.5459}
+    - - {x: -503.92886, y: 1448.4229}
+      - {x: -610.4865, y: 1448.4229}
+      - {x: -613.4465, y: 1446.9434}
+      - {x: -613.4465, y: 1344.8584}
+      - {x: -574.9673, y: 1321.1865}
+      - {x: -499.48898, y: 1321.1865}
+      - {x: -480.2494, y: 1337.4609}
+      - {x: -480.2494, y: 1424.751}
+    - - {x: -397.37122, y: 1458.7793}
+      - {x: -471.3696, y: 1458.7793}
+      - {x: -478.76944, y: 1436.5869}
+      - {x: -478.76944, y: 1380.3662}
+      - {x: -438.8103, y: 1321.1865}
+      - {x: -354.45218, y: 1321.1865}
+      - {x: -345.57236, y: 1352.2559}
+      - {x: -345.57236, y: 1442.5049}
+      - {x: -366.2919, y: 1454.3408}
+    - - {x: -339.6525, y: 1367.0508}
+      - {x: -310.05316, y: 1321.1865}
+      - {x: -215.33525, y: 1321.1865}
+      - {x: -210.89534, y: 1333.0225}
+      - {x: -210.89534, y: 1448.4229}
+      - {x: -336.69257, y: 1448.4229}
+      - {x: -339.6525, y: 1446.9434}
+    - - {x: -209.41537, y: 1448.4229}
+      - {x: -209.41537, y: 1344.8584}
+      - {x: -166.49632, y: 1321.1865}
+      - {x: -89.538025, y: 1321.1865}
+      - {x: -76.218315, y: 1359.6533}
+      - {x: -76.218315, y: 1445.4639}
+      - {x: -82.13818, y: 1448.4229}
+    - - {x: -68.81848, y: 1443.9844}
+      - {x: -68.81848, y: 1365.5713}
+      - {x: -21.459526, y: 1321.1865}
+      - {x: 46.618973, y: 1321.1865}
+      - {x: 58.45871, y: 1367.0508}
+      - {x: 58.45871, y: 1443.9844}
+    - - {x: 65.85854, y: 1439.5459}
+      - {x: 65.85854, y: 1343.3789}
+      - {x: 86.57809, y: 1321.1865}
+      - {x: 178.33606, y: 1321.1865}
+      - {x: 194.6157, y: 1356.6943}
+      - {x: 194.6157, y: 1439.5459}
+    - - {x: -333.73264, y: 1464.6973}
+      - {x: -339.6525, y: 1460.2588}
+      - {x: -339.6525, y: 1446.9434}
+      - {x: -324.8528, y: 1430.669}
+      - {x: -311.5331, y: 1430.669}
+      - {x: -311.5331, y: 1455.8203}
+      - {x: -315.97302, y: 1464.6973}
+    - - {x: -875.4007, y: 1488.3691}
+      - {x: -878.3606, y: 1485.4102}
+      - {x: -878.3606, y: 1439.5459}
+      - {x: -875.4007, y: 1436.5869}
+      - {x: -869.48083, y: 1436.5869}
+      - {x: -866.5209, y: 1439.5459}
+      - {x: -866.5209, y: 1485.4102}
+      - {x: -869.48083, y: 1488.3691}
+    - - {x: -836.9215, y: 1488.3691}
+      - {x: -838.4015, y: 1485.4102}
+      - {x: -857.64105, y: 1473.5742}
+      - {x: -863.5609, y: 1467.6562}
+      - {x: -863.5609, y: 1441.0254}
+      - {x: -860.601, y: 1436.5869}
+      - {x: -816.20197, y: 1436.5869}
+      - {x: -816.20197, y: 1485.4102}
+      - {x: -817.68195, y: 1488.3691}
+    - - {x: -807.3222, y: 1473.5742}
+      - {x: -814.722, y: 1472.0947}
+      - {x: -814.722, y: 1441.0254}
+      - {x: -811.7621, y: 1436.5869}
+      - {x: -786.60266, y: 1436.5869}
+      - {x: -780.68274, y: 1438.0664}
+      - {x: -780.68274, y: 1469.1357}
+      - {x: -783.6427, y: 1473.5742}
+    - - {x: -200.53557, y: 1464.6973}
+      - {x: -203.49551, y: 1461.7383}
+      - {x: -203.49551, y: 1454.3408}
+      - {x: -200.53557, y: 1451.3818}
+      - {x: -194.6157, y: 1451.3818}
+      - {x: -191.65576, y: 1454.3408}
+      - {x: -191.65576, y: 1461.7383}
+      - {x: -194.6157, y: 1464.6973}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
