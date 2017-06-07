@@ -23,6 +23,8 @@ public class Spawnpoint: MonoBehaviour {
         if (other.name == "Jugador")
         {
             levelManager.Spawnpoint = gameObject;
+            //Debug.Log("Spawnpoint" + transform.position);
+
         }
     }
 }

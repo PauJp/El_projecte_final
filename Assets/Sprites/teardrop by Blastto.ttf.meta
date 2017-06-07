@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 71030476d0693924c8e2419f2c241e3d
+timeCreated: 1496806564
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Teardrop by Blastto
+  fontNames:
+  - Teardrop by Blastto
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

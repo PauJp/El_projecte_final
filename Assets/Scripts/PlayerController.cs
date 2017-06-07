@@ -10,6 +10,9 @@ public class PlayerController : FisiquesGameObject {
     private SpriteRenderer spriteRenderer;
     private Animator animator;
 
+    public Transform firepoint;
+    public GameObject Disparu;
+
 	// Use this for initialization
 	void Awake ()
     {
@@ -43,6 +46,11 @@ public class PlayerController : FisiquesGameObject {
         animator.SetFloat("velocityX", Mathf.Abs(velocitat.x) / maxSpeed);
 
         targetVelocity = move * maxSpeed;
+
+        if(Input.GetKeyDown(KeyCode.Return))
+        {
+            Instantiate(Disparu, firepoint.position, firepoint.rotation);
+        }
 
     }
 }

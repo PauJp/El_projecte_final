@@ -30,9 +30,13 @@ public class Enemy_shoot_control : MonoBehaviour {
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.name == "Player")
+        if(other.name == "Jugador")
         {
-            //Posar aqui matar el player
+            Destroy(gameObject);
+        }
+        if (other.tag == "Land")
+        {
+            Destroy(gameObject);
         }
     }
 }
