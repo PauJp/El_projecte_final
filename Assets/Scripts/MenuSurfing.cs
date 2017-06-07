@@ -6,11 +6,13 @@ public class MenuSurfing : MonoBehaviour {
 
     public GameObject main;
     public GameObject settings;
+    public GameObject Exit;
 
     public void ShowMain()
     {
         main.SetActive(true);
         settings.SetActive(false);
+        Exit.SetActive(false);
 
     }
 
@@ -18,6 +20,7 @@ public class MenuSurfing : MonoBehaviour {
     {
         settings.SetActive(true);
         main.SetActive(false);
+        Exit.SetActive(false);
 
     }
 

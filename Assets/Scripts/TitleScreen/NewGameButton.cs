@@ -17,6 +17,6 @@ public class NewGameButton : MonoBehaviour {
 
     void OnMouseDown()
     {
-        SceneManager.LoadScene("test");
+        SceneManager.LoadScene("ELJUEGO");
     }
 }
