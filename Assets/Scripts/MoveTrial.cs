@@ -11,4 +11,12 @@ public class MoveTrial : MonoBehaviour {
         transform.Translate(Vector3.right * Time.deltaTime * moveSpeed);
         Destroy(gameObject, 1);
 	}
+
+    /*void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.tag == "Enemy")
+        {
+            Destroy(other.gameObject);
+        }
+    }*/
 }
